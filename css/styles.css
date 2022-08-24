@@ -91,6 +91,10 @@ button{
   z-index: 1;
 }
 
+.link-2:hover + .dropdown-list-2 {
+  display: block;
+}
+
 .dropdown-list-1{
   height: 145px;
   width: 180px;
